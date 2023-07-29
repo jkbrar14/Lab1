@@ -9,3 +9,9 @@ def calculate_age  (birth_year):
 birth_year = int(input("Put down rhe year you were born:"))
 age = calculate_age(birth_year)
 print("Your age is:"age)
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
